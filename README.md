@@ -1,6 +1,6 @@
 ## SDS2020 Workshop
 
-![](https://github.com/claudio1975/SDS2020/blob/master/EEDA_Presentation.pptx)
+![Presentation](https://github.com/claudio1975/SDS2020/blob/master/EEDA_Presentation.pptx)
 
 Run notebooks on Colab
 
