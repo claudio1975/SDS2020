@@ -22,3 +22,5 @@ Run notebooks on Colab
 ![6_An_Experimental_EDA_for_a_classification_task](https://github.com/claudio1975/SDS2020/blob/master/notebooks/workshop/6_An_Experimental_EDA_for_a_classification_task.ipynb)
 
 Run notebooks locally: clone this repository, and then run Jupyter locally.
+
+Read the [article](https://data-service-alliance.ch/about-us/blog/blog/an-experimental-exploratory-data-analysis-for-a-classification-task-pre-conference-workshop-25-06-2020)
