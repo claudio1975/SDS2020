@@ -23,4 +23,4 @@ Run notebooks on Colab
 
 Run notebooks locally: clone this repository, and then run Jupyter locally.
 
-Read the [article](https://data-service-alliance.ch/about-us/blog/blog/an-experimental-exploratory-data-analysis-for-a-classification-task-pre-conference-workshop-25-06-2020)
+Read the [article](https://data-innovation.org/an-experimental-exploratory-data-analysis-for-a-classification-task-pre-conference-workshop-25-06-2020/)
